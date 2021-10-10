@@ -1,0 +1,24 @@
+package demo;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DataTables {
+	
+	public static void main(String[] args) throws InterruptedException {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Vaibhav\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		Thread.sleep(1000);
+		
+		driver.get("https://vctcpune.com/selenium/practice.html");
+		Thread.sleep(1000);
+		
+		WebElement tableSize = driver.findElement(By.xpath("//table[@class='table-display']/tbody/tr"));
+		System.out.println(tableSize.getSize());
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GoogleSearch.feature&apos; to &apos;Features&apos;&#x0D;&#x0A;- Original project: &apos;Demo_Test&apos;&#x0D;&#x0A;- Destination element: &apos;Features&apos;&#x0D;&#x0A;- Original element: &apos;GoogleSearch.feature&apos;" description="Copy file" element1="Features/GoogleSearch.feature" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1623758026644" target="/BDD/Features" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none" preserve-order="true">
+    <classes>
+      <class name="TestExecution_TakeawayOrder.Execute_TakeawayOrder">
+        <methods>
+          <include name="openMerchantDashboard"/>
+          <include name="logout_MerchantDashboard"/>
+          <include name="SetloginTo_MerchantDashboard"/>
+          <include name="closeBrowser"/>
+          <include name="CompletedTo_TakeAway_Order"/>
+          <include name="Create_TakeAway_Order"/>
+        </methods>
+      </class> <!-- TestExecution_TakeawayOrder.Execute_TakeawayOrder -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,40 @@
+package demo;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.poi.EncryptedDocumentException;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DataFromExcel {
+	public static void main(String[] args) throws InterruptedException, EncryptedDocumentException, IOException {
+		//"C:\Users\Vaibhav\Downloads\dummydata.xlsx"
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\\\Users\\\\Vaibhav\\\\Downloads\\\\chromedriver_win32 (1)\\\\chromedriver.exe");
+		WebDriver driver =	new ChromeDriver();
+		Thread.sleep(1000);
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		
+		//open url
+		driver.get("https://kite.zerodha.com/");
+		Thread.sleep(1000);
+		
+		FileInputStream file = new FileInputStream("C:\\Users\\Vaibhav\\Downloads\\dummydata.xlsx");
+		Sheet excelData = WorkbookFactory.create(file).getSheet("Sheet1");
+		
+		driver.findElement(By.xpath("//input[@id=\"userid\"]")).sendKeys(excelData.getRow(0).getCell(0).getStringCellValue());
+	
+		driver.findElement(By.xpath("//input[@id=\"password\"]")).sendKeys(excelData.getRow(0).getCell(0).getStringCellValue());
+
+		driver.findElement(By.xpath("//button[text()= 'Login ']")).click();
+		
+		
+	}
+
+}

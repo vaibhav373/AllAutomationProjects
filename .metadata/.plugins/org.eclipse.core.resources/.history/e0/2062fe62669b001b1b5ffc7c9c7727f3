@@ -1,0 +1,16 @@
+package practice;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class AssertExample {
+	
+	@Test
+	public void TC1() {
+		String exp = "hrishikesh";
+		String act = "hrishikesh";
+	//	Assert.assertEquals(act, exp);
+		Assert.assertNotEquals(act,exp);
+	}
+
+}

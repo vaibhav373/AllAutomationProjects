@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="C:\Users\Vaibhav\git\KiteZeroda_MockProject\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<item value="MIXED" key="ResetTargetSelectionDialog.resetType"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/vaibhav373/SeleniumCucumber.git"/>
+		<item value="https://github.com/HPmalge/AutomationTesting_KiteZeroda.git"/>
+		<item value="https://github.com/HPmalge/KiteZeroda_MockProject.git"/>
+		<item value="https://github.com/SujataK123/MyTeam.git"/>
+		<item value="https://github.com/HPmalge/demo_111.git"/>
+		<item value="https://github.com/HPmalge/sample_1.git"/>
+		<item value="https://github.com/pravi1694/Sujata.git"/>
+		<item value="https://github.com/pravi1694/pravin.git"/>
+		<item value="https://github.com/HPmalge/Demo_11.git"/>
+		<item value="https://github.com/HPmalge/DemoRepo.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Vaibhav More&lt;vaibhavmore805@gmail.com&gt;"/>
+		<item value="Vaibhav More &lt;vaibhavmore805@gmail.com&gt;"/>
+		<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+		<item value="&lt;hrishikeshmalge@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Vaibhav More&lt;vaibhavmore805@gmail.com&gt;"/>
+		<item value="Vaibhav More &lt;vaibhavmore805@gmail.com&gt;"/>
+		<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+		<item value="&lt;hrishikeshmalge@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.ResetTargetSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="854" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="481" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="204" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.CheckoutDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="534" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="168" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Vaibhav\git\AutomationTesting_KiteZeroda\.git">
+			<item value="true"/>
+			<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+			<item value="&#x0D;&#x0A;"/>
+			<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+			<item value="6a06d64c1dd82d6fb8e9d30c60e49d74649f5c2f"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\Users\Vaibhav\git\Demo_11\.git">
+			<item value="true"/>
+			<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+			<item value=""/>
+			<item value="Hrishikesh Malge &lt;hrishikeshmalge@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\Users\Vaibhav\git\DemoRepo\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\Vaibhav\git\KiteZeroda_MockProject\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="765" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="14" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="true" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

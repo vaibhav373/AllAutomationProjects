@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Vaibhav\eclipse-workspace\juniDemo"/>
+			<item value="C:\Users\Vaibhav\eclipse-workspace\SeleniumWithTestNG\src\demo_1\AutosuggestionList.java"/>
+			<item value="C:\Users\Vaibhav\eclipse-workspace\AutoProject_KiteZeroda\src\test\java\kiteZeroda_TestCase\TestCaseExecution_kite.java"/>
+			<item value="C:\Users\Vaibhav\git\KiteZeroda_MockProject\autoproject_1\src\test\java\pomClassOfKite\BuyShares.java"/>
+			<item value="C:\Users\Vaibhav\eclipse-workspace\KiteSite"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ProjectMerchant.ProjectMerchant"/>
+			<item value="com.cg.BDD"/>
+			<item value="com.cg.juniDemo"/>
+			<item value="TestCase_ParaBank.SeleniumCucumber"/>
+			<item value="TestCase_ParaBank.AutomationTestProject_Parabank_WebApplication"/>
+			<item value="TestCase_Flipkart.AutoProject_Flipkart"/>
+			<item value="kiteZeroda_Test.AutoProject_KiteZeroda"/>
+			<item value="AutoProject_KiteZeroda.KiteZeroda_Test"/>
+			<item value="Learning.MavenProjectSample"/>
+			<item value="autoproject.autoproject_1"/>
+		</list>
+		<list key="groupId">
+			<item value="ProjectMerchant"/>
+			<item value="com.cg"/>
+			<item value="TestCase_ParaBank"/>
+			<item value="TestCase_Flipkart"/>
+			<item value="kiteZeroda_Test"/>
+			<item value="AutoProject_KiteZeroda"/>
+			<item value="Learning"/>
+			<item value="autoproject"/>
+		</list>
+		<list key="artifactId">
+			<item value="ProjectMerchant"/>
+			<item value="BDD"/>
+			<item value="juniDemo"/>
+			<item value="SeleniumCucumber"/>
+			<item value="AutomationTestProject_Parabank_WebApplication"/>
+			<item value="AutoProject_Flipkart"/>
+			<item value="AutoProject_KiteZeroda"/>
+			<item value="KiteZeroda_Test"/>
+			<item value="MavenProjectSample"/>
+			<item value="autoproject_1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43181" started-at="2021-08-31T18:53:36Z" finished-at="2021-08-31T18:54:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43181" started-at="2021-08-31T18:53:36Z" finished-at="2021-08-31T18:54:19Z">
+      <class name="TestExecution_NewOnboardRestaurant.TS_01_TestSignUp">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestExecution_NewOnboardRestaurant.TS_01_TestSignUp@20d28811]" name="openBrowser" is-config="true" duration-ms="31565" started-at="2021-09-01T00:23:36Z" finished-at="2021-09-01T00:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Set_SignUpCredentials()[pri:0, instance:TestExecution_NewOnboardRestaurant.TS_01_TestSignUp@20d28811]" name="Set_SignUpCredentials" duration-ms="11570" started-at="2021-09-01T00:24:08Z" finished-at="2021-09-01T00:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_SignUpCredentials -->
+      </class> <!-- TestExecution_NewOnboardRestaurant.TS_01_TestSignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
